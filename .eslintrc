@@ -1,0 +1,19 @@
+{
+  "extends": "airbnb/base",
+  "env": {
+    'amd': true,
+    'browser': true,
+    'node': true,
+    'mocha': true
+  },
+  "plugins": [
+    "vue"
+  ],
+  "rules": {
+    "arrow-body-style": [2, 'always'],
+    "prefer-template": 0,
+    "no-param-reassign": 0,
+    "object-shorthand": 0,
+    "no-multi-str": 0,
+  }
+}

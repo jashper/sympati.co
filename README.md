@@ -1,0 +1,1 @@
+# sympati.co

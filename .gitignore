@@ -1,0 +1,18 @@
+# OSX
+.DS_Store
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+*.sublime-gulp.cache
+
+# Dependency directory
+node_modules
+
+# Build targets
+dist
+
+# Logs
+logs
+*.log
+npm-debug.log*
